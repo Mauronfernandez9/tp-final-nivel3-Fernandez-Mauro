@@ -1,0 +1,6 @@
+C:\Users\Mauro\Desktop\TPFinalNivel3FernandezMauro\helper\bin\Debug\helper.dll
+C:\Users\Mauro\Desktop\TPFinalNivel3FernandezMauro\helper\bin\Debug\helper.pdb
+C:\Users\Mauro\Desktop\TPFinalNivel3FernandezMauro\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\TPFinalNivel3FernandezMauro\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\TPFinalNivel3FernandezMauro\helper\obj\Debug\helper.dll
+C:\Users\Mauro\Desktop\TPFinalNivel3FernandezMauro\helper\obj\Debug\helper.pdb
