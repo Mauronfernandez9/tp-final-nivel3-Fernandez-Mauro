@@ -84,11 +84,11 @@
 
             <asp:Repeater runat="server" ID="repetidor">
                 <ItemTemplate>
-                    <div class="card col-3 mb-3 d-flex align-items-center bg-dark p-0">
-                        <img style="max-height: 200px;" src="<%#Eval("UrlImagen") %>" class="card-img-top img-thumbnail" alt="...">
+                    <div class="align-items-center border border-2 card col-3 d-flex mb-3 p-0">
+                        <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                         <div class="card-body d-flex flex-column align-items-center">
-                            <h5 class="card-title small text-nowrap text-center text-white"><%#Eval("Nombre") %></h5>
-                            <p class="card-text h6 text-center font-monospace text-white">$<%#Eval("Precio") %></p>
+                            <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
+                            <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio") %></p>
                             <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                         </div>
                     </div>
@@ -125,11 +125,11 @@
                             <div class="card-group d-flex gap-5">
                                 <asp:Repeater runat="server" ID="repetidorCarrusel1">
                                     <ItemTemplate>
-                                        <div class="card col-3 mb-3 d-flex align-items-center bg-dark p-0 border border-2">
-                                            <img style="max-height: 200px;" src="<%#Eval("UrlImagen") %>" class="card-img-top img-thumbnail" alt="...">
+                                        <div class="align-items-center border border-2 card col-3 d-flex mb-3 p-0">
+                                            <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                                             <div class="card-body d-flex flex-column align-items-center">
-                                                <h5 class="card-title small text-nowrap text-center text-white"><%#Eval("Nombre") %></h5>
-                                                <p class="card-text h6 text-center font-monospace text-white">$<%#Eval("Precio") %></p>
+                                                <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
+                                                <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio") %></p>
                                                 <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                                             </div>
                                         </div>
@@ -143,11 +143,11 @@
                             <div class="card-group d-flex gap-5">
                                 <asp:Repeater runat="server" ID="repetidorCarrusel2">
                                     <ItemTemplate>
-                                        <div class="card col-3 mb-3 d-flex align-items-center bg-dark p-0 border border-2">
-                                            <img style="max-height: 200px;" src="<%#Eval("UrlImagen") %>" class="card-img-top img-thumbnail" alt="...">
+                                        <div class="align-items-center border border-2 card col-3 d-flex mb-3 p-0">
+                                            <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                                             <div class="card-body d-flex flex-column align-items-center">
-                                                <h5 class="card-title small text-nowrap text-center text-white"><%#Eval("Nombre") %></h5>
-                                                <p class="card-text h6 text-center font-monospace text-white">$<%#Eval("Precio") %></p>
+                                                <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
+                                                <p class="text-lg-center text-nowrap  fw-semibold">$<%#Eval("Precio") %></p>
                                                 <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                                             </div>
                                         </div>
@@ -162,11 +162,11 @@
                             <div class="card-group d-flex gap-5">
                                 <asp:Repeater runat="server" ID="repetidorCarrusel3">
                                     <ItemTemplate>
-                                        <div class="card col-3 mb-3 d-flex align-items-center bg-dark p-0 border border-2">
-                                            <img style="max-height: 200px;" src="<%#Eval("UrlImagen") %>" class="card-img-top img-thumbnail" alt="...">
+                                        <div class="align-items-center border border-2 card col-3 d-flex mb-3 p-0">
+                                            <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                                             <div class="card-body d-flex flex-column align-items-center">
-                                                <h5 class="card-title small text-nowrap text-center text-white"><%#Eval("Nombre") %></h5>
-                                                <p class="card-text h6 text-center font-monospace text-white">$<%#Eval("Precio") %></p>
+                                                <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
+                                                <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio") %></p>
                                                 <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                                             </div>
                                         </div>

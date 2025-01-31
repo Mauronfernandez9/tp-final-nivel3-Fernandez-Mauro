@@ -16,7 +16,7 @@
 
             <div class="row justify-content-between row w-100">
                 <div class="col-2 col-2 d-flex justify-content-center">
-                    <a class="navbar-brand text-white" href="#">Logo</a>
+                    <a class="navbar-brand text-white" href="Home.aspx">Logo</a>
                 </div>
                 <div class="col-6 d-flex align-items-center justify-content-end">
                     <a href="#" class="text-decoration-none col-2">Ingresa</a>
@@ -30,10 +30,10 @@
         <header>
             <ul class="nav justify-content-center bg-dark">
                 <li class="nav-item">
-                    <a class="nav-link active text-bg-dark" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active text-bg-dark" aria-current="page" href="Home.aspx">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-bg-dark" href="#">Productos</a>
+                    <a class="nav-link text-bg-dark" href="Productos.aspx">Productos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-bg-dark" href="#">Gestión de productos</a>

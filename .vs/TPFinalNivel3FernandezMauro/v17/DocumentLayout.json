@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|c:\\users\\mauro\\desktop\\tpfinalnivel3fernandezmauro\\dominio\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|solutionrelative:dominio\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212BB745-15F2-4987-9555-C222782DF821}|Front\\Front.csproj|C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\Front\\Productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{212BB745-15F2-4987-9555-C222782DF821}|Front\\Front.csproj|solutionrelative:Front\\Productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|c:\\users\\mauro\\desktop\\tpfinalnivel3fernandezmauro\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32A0D3B-2C5F-4405-A5FB-49B1DF5D6779}|negocio\\negocio.csproj|C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\negocio\\categoriaNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32A0D3B-2C5F-4405-A5FB-49B1DF5D6779}|negocio\\negocio.csproj|solutionrelative:negocio\\categoriaNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|c:\\users\\mauro\\desktop\\tpfinalnivel3fernandezmauro\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32A0D3B-2C5F-4405-A5FB-49B1DF5D6779}|negocio\\negocio.csproj|C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\negocio\\marcaNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32A0D3B-2C5F-4405-A5FB-49B1DF5D6779}|negocio\\negocio.csproj|solutionrelative:negocio\\marcaNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|c:\\users\\mauro\\desktop\\tpfinalnivel3fernandezmauro\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|c:\\users\\mauro\\desktop\\tpfinalnivel3fernandezmauro\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C551ACF3-ACBA-47AA-9512-11084C087A25}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212BB745-15F2-4987-9555-C222782DF821}|Front\\Front.csproj|c:\\users\\mauro\\desktop\\tpfinalnivel3fernandezmauro\\front\\productos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212BB745-15F2-4987-9555-C222782DF821}|Front\\Front.csproj|solutionrelative:front\\productos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Favorito.cs",
-              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Favorito.cs",
-              "RelativeDocumentMoniker": "dominio\\Favorito.cs",
-              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Favorito.cs",
-              "RelativeToolTip": "dominio\\Favorito.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvw8AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "marcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\negocio\\marcaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\marcaNegocio.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\negocio\\marcaNegocio.cs",
+              "RelativeToolTip": "negocio\\marcaNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:02:22.828Z",
+              "WhenOpened": "2025-01-30T16:46:07.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Usuario.cs",
-              "RelativeDocumentMoniker": "dominio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Usuario.cs",
-              "RelativeToolTip": "dominio\\Usuario.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswAoAAAANAAAA",
+              "Title": "categoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\negocio\\categoriaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\categoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\negocio\\categoriaNegocio.cs",
+              "RelativeToolTip": "negocio\\categoriaNegocio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:58:40.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Marca.cs",
-              "RelativeDocumentMoniker": "dominio\\Marca.cs",
-              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Marca.cs",
-              "RelativeToolTip": "dominio\\Marca.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:57:24.11Z",
+              "WhenOpened": "2025-01-30T16:44:40.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Categoria.cs",
-              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Categoria.cs",
-              "RelativeToolTip": "dominio\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
+              "Title": "Productos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\Front\\Productos.aspx.cs",
+              "RelativeDocumentMoniker": "Front\\Productos.aspx.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\Front\\Productos.aspx.cs",
+              "RelativeToolTip": "Front\\Productos.aspx.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv3wAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:56:35.165Z",
+              "WhenOpened": "2025-01-29T16:40:20.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\dominio\\Articulo.cs",
-              "RelativeToolTip": "dominio\\Articulo.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:53:19.923Z",
+              "DocumentIndex": 0,
+              "Title": "Productos.aspx",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\Front\\Productos.aspx",
+              "RelativeDocumentMoniker": "Front\\Productos.aspx",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\TPFinalNivel3FernandezMauro\\Front\\Productos.aspx",
+              "RelativeToolTip": "Front\\Productos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-29T16:33:58.12Z",
               "EditorCaption": ""
             }
           ]

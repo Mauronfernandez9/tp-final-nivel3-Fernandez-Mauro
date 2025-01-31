@@ -75,6 +75,7 @@
     <Content Include="Images\Home\tarjeta-de-credito.png" />
     <Content Include="Images\Home\transporte.png" />
     <Content Include="ProductoDetalles.aspx" />
+    <Content Include="Productos.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -101,6 +102,13 @@
     </Compile>
     <Compile Include="ProductoDetalles.aspx.designer.cs">
       <DependentUpon>ProductoDetalles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Productos.aspx.cs">
+      <DependentUpon>Productos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productos.aspx.designer.cs">
+      <DependentUpon>Productos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
