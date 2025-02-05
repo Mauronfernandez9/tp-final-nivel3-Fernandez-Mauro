@@ -41,9 +41,11 @@
                 <div class="row mt-5">
                     <div class="col d-flex flex-column align-items-start">
                         <label class="mb-3">Marcas</label>
+                        <asp:Button ID="btnRestaurarMarca" CssClass="btn btn-secondary mb-3" OnClick="btnRestaurarMarca_Click" Text="Todas" runat="server"/>
                         <asp:Repeater ID="repetidorMarcas" runat="server">
                             <ItemTemplate>
-                                <button type="button" class="btn btn-secondary mb-3"><%#Eval("Descripcion") %></button>
+                            
+                                <asp:Button ID="btnMarca" CssClass="btn btn-secondary mb-3" OnClick="btnMarca_Click"  Text=<%#Eval("Descripcion") %> runat="server" />
                             </ItemTemplate>
                         </asp:Repeater>
                     </div>
@@ -63,7 +65,7 @@
                                              <div class="col-md-8">
                                                  <div class="card-body d-flex flex-column align-items-center" "height: 50%;>
                                                      <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
-                                                     <p class="text-lg-center text-nowrap font-monospace fs-3 fw-semibold">$<%#Eval("Precio") %></p>
+                                                     <p class="text-lg-center text-nowrap font-monospace fs-3 fw-semibold">$<%#Eval("Precio","{0:N2}") %></p>
                                                  </div>
                                            </div>
                                      </div>

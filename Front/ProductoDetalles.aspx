@@ -40,7 +40,7 @@
                                             <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                                             <div class="card-body d-flex flex-column align-items-center">
                                                 <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
-                                                <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio") %></p>
+                                                <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio","{0:N2}") %></p>
                                                 <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                                             </div>
                                         </div>
@@ -58,7 +58,7 @@
                                             <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                                             <div class="card-body d-flex flex-column align-items-center">
                                                 <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
-                                                <p class="text-lg-center text-nowrap  fw-semibold">$<%#Eval("Precio") %></p>
+                                                <p class="text-lg-center text-nowrap  fw-semibold">$<%#Eval("Precio","{0:N2}") %></p>
                                                 <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                                             </div>
                                         </div>
@@ -77,7 +77,7 @@
                                             <img style="max-height: 200px; max-width: 150px" src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
                                             <div class="card-body d-flex flex-column align-items-center">
                                                 <h5 class=" fst-italic mb-4 fs-6 fw-lighter"><%#Eval("Nombre") %></h5>
-                                                <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio") %></p>
+                                                <p class="text-lg-center text-nowrap fw-semibold">$<%#Eval("Precio","{0:N2}") %></p>
                                                 <a href="ProductoDetalles.aspx?id=<%#Eval("Id")%>" class="btn btn-success">Ver detalles</a>
                                             </div>
                                         </div>
