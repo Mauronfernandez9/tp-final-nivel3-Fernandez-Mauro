@@ -69,10 +69,10 @@ namespace negocio
 
 
             }
-            catch (Exception)
+            catch (Exception exc)
             {
 
-                throw;
+                throw exc;
             }
             finally
             {
@@ -141,6 +141,34 @@ namespace negocio
 
 
             }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally
+            {
+                datos.CerrarConexion();
+            }
+        }
+
+
+        public void CrearArticulo(Articulo artNuevo)
+        {
+            try
+            {
+                datos = new AccesoDatos();
+                datos.SettearConsulta("insert into Articulos values (@codigo,@nombre,@descripcion,@marca,@categoria,@imagenUrl,@precio)");
+				datos.SettearParametros("@codigo",artNuevo.CodigoArticulo);
+				datos.SettearParametros("@nombre",artNuevo.Nombre);
+				datos.SettearParametros("@descripcion",artNuevo.Descripcion);
+				datos.SettearParametros("@marca",artNuevo.MarcaArticulo.Id);
+				datos.SettearParametros("@categoria",artNuevo.CategoriaArticulo.Id);
+				datos.SettearParametros("@imagenUrl",artNuevo.UrlImagen);
+				datos.SettearParametros("@precio",artNuevo.Precio);
+                datos.EjecutarNoQuery();
+
+			}
             catch (Exception)
             {
 

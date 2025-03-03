@@ -43,6 +43,13 @@ namespace helper
             lector = comando.ExecuteReader();
         }
 
+        public void EjecutarNoQuery()
+        {
+            comando.Connection = conexion;
+            conexion.Open();
+            comando.ExecuteNonQuery();
+        }
+
         public void CerrarConexion()
         {
             if (lector != null)
