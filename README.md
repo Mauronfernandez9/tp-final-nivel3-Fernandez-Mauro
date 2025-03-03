@@ -19,3 +19,13 @@ Este es un proyecto de sitio web para la venta de artículos, principalmente de 
 * Backend: .NET Framework
 
 * Base de datos: Sql Server
+
+ 📸 ## Capturas de Pantalla
+
+  ![captura 1](img/captura1.png)
+  ![captura 2](img/captura2.png)
+  ![captura 3](img/captura3.png)
+  ![captura 4](img/captura4.png)
+  ![captura 5](img/captura5.png)
+  ![captura 6](img/captura6.png)
+
