@@ -20,7 +20,8 @@ Este es un proyecto de sitio web para la venta de artículos, principalmente de 
 
 * Base de datos: Sql Server
 
- 📸 ## Capturas de Pantalla
+ 📸 
+ ## Capturas de Pantalla
 
   ![captura 1](img/captura1.png)
   ![captura 2](img/captura2.png)
